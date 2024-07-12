@@ -33,6 +33,5 @@
   <img src="https://github-readme-stats.vercel.app/api?username=Drn66&show_icons=true" />
 </picture>
 
-<picture> https://cdn.discordapp.com/attachments/1150935029908783187/1261242212352786432/098ae8fec65fb6cfe5734dfbded6cb6a.jpg?ex=66923ed8&is=6690ed58&hm=fa1aec76d2a79e25dbbc054275c69668f681e8f7a1fd69632abb4ea55cf09c63& </picture>
 
 
