@@ -1,37 +1,40 @@
-## Olá!!!
+## Selected work
 
-- 🌱 Estudando HTML/CSS
+<div align="center">
 
- <div style="display: inline_block"><br>
-  <img align="center" alt="drn-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="drn-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
-  <img align="center" alt="drn-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-  <img align="center" alt="drn-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="drn-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="drn-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="center" alt="drn-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
-</div>
-  
-  ##
- 
-<div> 
-  <a href="https://instagram.com/lu.ouss_" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a> 
-  <a href = "mailto:luis.leite091@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/luis-mendon%C3%A7a-492a13273/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-  
+<p lign="center">
+  <img src="https://www.gitskins.com/api/section/hero?username=drn66&theme=neon&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F133469667%3Fu%3Dfee6bdd56b2c2602ff56bb20c6a2030a5a421536%26v%3D4" alt="drn66 hero visual" />
+</p>
+
+<h1>Drn66</h1>
+<p><b>Freelance developer or consultant</b></p>
+
 </div>
 
-<picture>
-  <source
-    srcset="https://github-readme-stats.vercel.app/api?username=Drn66&show_icons=true&theme=dark"
-    media="(prefers-color-scheme: dark)"
-  />
-  <source
-    srcset="https://github-readme-stats.vercel.app/api?username=Drn66&show_icons=true"
-    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
-  />
-  <img src="https://github-readme-stats.vercel.app/api?username=Drn66&show_icons=true" />
-</picture>
+## The idea behind the work
 
+> Building useful things and learning in public.
 
+- 👥 **0** followers · **0** following
 
+*Small, useful work over vague claims.*
+
+## Case studies
+
+<table>
+<tr><td width="32%"><b><a href="https://github.com/Drn66/Calculadora-IMC">Calculadora-IMC</a></b></td><td>A selected project from this GitHub profile.<br/><sub>CSS · 1 stars</sub></td></tr>
+</table>
+
+## Creative toolkit
+
+![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white) ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+
+## Make something memorable
+
+<p align="center">
+  <img src="https://www.gitskins.com/api/section/social?username=drn66&theme=neon&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F133469667%3Fu%3Dfee6bdd56b2c2602ff56bb20c6a2030a5a421536%26v%3D4" alt="drn66 social visual" />
+</p>
+
+<a href="https://github.com/drn66">GitHub</a>
+
+<p align="center"><sub>Drn66 · Creative portfolio generated with <a href="https://www.gitskins.com/readme-generator">GitSkins</a></sub></p>
