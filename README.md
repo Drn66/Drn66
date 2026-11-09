@@ -22,7 +22,7 @@
 ## Case studies
 
 <table>
-<tr><td width="32%"><b><a href="https://github.com/Drn66/chloe-ai">Calculadora-IMC</a></b></td><td>A selected project from this GitHub profile.<br/><sub>CSS · 1 stars</sub></td></tr>
+<tr><td width="32%"><b><a href="https://github.com/Drn66/chloe-ai">CHLOE-AI</a></b></td><td>A selected project from this GitHub profile.<br/><sub>CSS · 1 stars</sub></td></tr>
 </table>
 
 ## Creative toolkit
